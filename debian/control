@@ -1,0 +1,119 @@
+Source: osso-statusbar-sound-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: osso-statusbar-sound-l10n-mr0
+Section: misc
+Architecture: all
+Provides: osso-statusbar-sound-l10n-mr
+Depends: osso-statusbar-sound-l10n-ruru, osso-statusbar-sound-l10n-frfr, osso-statusbar-sound-l10n-frca, osso-statusbar-sound-l10n-dadk, osso-statusbar-sound-l10n-itit, osso-statusbar-sound-l10n-svse, osso-statusbar-sound-l10n-nono, osso-statusbar-sound-l10n-fifi, osso-statusbar-sound-l10n-nlnl, osso-statusbar-sound-l10n-enus, osso-statusbar-sound-l10n-dede, osso-statusbar-sound-l10n-esmx, osso-statusbar-sound-l10n-eses, osso-statusbar-sound-l10n-cscz, osso-statusbar-sound-l10n-ptpt, osso-statusbar-sound-l10n-engb, osso-statusbar-sound-l10n-plpl
+Description: osso-statusbar-sound marketing release package
+ This is a metapackage for osso-statusbar-sound to pull all the l10n packages.
+ Application developers of osso-statusbar-sound should depend on
+ "osso-statusbar-sound-l10n-mr0 | osso-statusbar-sound-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: osso-statusbar-sound-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-sound (cs_CZ)
+ Language files for cs_CZ osso-statusbar-sound.
+
+Package: osso-statusbar-sound-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-sound (da_DK)
+ Language files for da_DK osso-statusbar-sound.
+
+Package: osso-statusbar-sound-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-sound (de_DE)
+ Language files for de_DE osso-statusbar-sound.
+
+Package: osso-statusbar-sound-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-sound (en_GB)
+ Language files for en_GB osso-statusbar-sound.
+
+Package: osso-statusbar-sound-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-sound (en_US)
+ Language files for en_US osso-statusbar-sound.
+
+Package: osso-statusbar-sound-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-sound (es_ES)
+ Language files for es_ES osso-statusbar-sound.
+
+Package: osso-statusbar-sound-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-sound (es_MX)
+ Language files for es_MX osso-statusbar-sound.
+
+Package: osso-statusbar-sound-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-sound (fi_FI)
+ Language files for fi_FI osso-statusbar-sound.
+
+Package: osso-statusbar-sound-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-sound (fr_CA)
+ Language files for fr_CA osso-statusbar-sound.
+
+Package: osso-statusbar-sound-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-sound (fr_FR)
+ Language files for fr_FR osso-statusbar-sound.
+
+Package: osso-statusbar-sound-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-sound (it_IT)
+ Language files for it_IT osso-statusbar-sound.
+
+Package: osso-statusbar-sound-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-sound (nl_NL)
+ Language files for nl_NL osso-statusbar-sound.
+
+Package: osso-statusbar-sound-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-sound (no_NO)
+ Language files for no_NO osso-statusbar-sound.
+
+Package: osso-statusbar-sound-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-sound (pl_PL)
+ Language files for pl_PL osso-statusbar-sound.
+
+Package: osso-statusbar-sound-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-sound (pt_PT)
+ Language files for pt_PT osso-statusbar-sound.
+
+Package: osso-statusbar-sound-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-sound (ru_RU)
+ Language files for ru_RU osso-statusbar-sound.
+
+Package: osso-statusbar-sound-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for osso-statusbar-sound (sv_SE)
+ Language files for sv_SE osso-statusbar-sound.
