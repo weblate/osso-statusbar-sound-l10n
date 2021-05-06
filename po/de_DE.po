@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: osso-statusbar-sound 20090409122110\n"
-"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2009.04.09 12:21+0300\n"
 "PO-Revision-Date: 2009.04.09 12:21+0300\n"
 "Last-Translator:\n"
